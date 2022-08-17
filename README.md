@@ -18,17 +18,19 @@
   </a>
   <br>
   </a>
-    <a href="https://github.com/AnwarMEQOR?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAnwarMEQOR"/></a>
+  <a href="https://github.com/AnwarMEQOR?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAnwarMEQOR"/>
+  </a>
   <a href="https://github.com/AnwarMEQOR?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AnwarMEQOR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p align="center">
+<p style="text-align: center;">
 
 
-<h3 align="center">GitHub Profile Stats</h3>
+  <h3 align="center">GitHub Profile Stats</h3>
 
-  <img align="center" alt="AnwarMEQOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnwarMEQOR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/> <img align="center" alt="AnwarMEQOR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarMEQOR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="155px"/>
+  <img align="center" alt="AnwarMEQOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnwarMEQOR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>  
+  <img align="center" alt="AnwarMEQOR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarMEQOR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="155px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my <b>public</b> code consists of and doesn't reflect experience or skill level.
 
