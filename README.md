@@ -24,7 +24,7 @@
   <a href="https://github.com/AnwarMEQOR?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AnwarMEQOR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p style="text-align: center; margin-left: auto; margin-right: auto; display: block;">
+<p style="text-align: center; margin-left: auto; margin-right: auto; display: flex;">
 
 
   <h3 align="center">GitHub Profile Stats</h3>
