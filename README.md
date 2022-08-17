@@ -29,17 +29,24 @@
 
   <h3 align="center">GitHub Profile Stats</h3>
 
-  <img align="center" alt="AnwarMEQOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnwarMEQOR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>  
+  <img align="center" alt="AnwarMEQOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnwarMEQOR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px"/>   <br/>
+  <br/>
+  <br/>
   <img align="center" alt="AnwarMEQOR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwarMEQOR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="155px"/>
+  <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my <b>public</b> code consists of and doesn't reflect experience or skill level.
 
 </div>
-
+<br/>
+<br/>
+<br/>
 <p align="center">
 <img align="center" alt="AnwarMEQOR's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=AnwarMEQOR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px"/>
 
-<br>
+  <br/>
+  <br/>
+  <br/>
 <img alt="AnwarMEQOR's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AnwarMEQOR&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
 <br><br><br>
 
