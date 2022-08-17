@@ -39,7 +39,7 @@
 <p align="center">
 <img align="center" alt="AnwarMEQOR's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=AnwarMEQOR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px"/>
 
-
+<br>
 <img alt="AnwarMEQOR's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AnwarMEQOR&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  /></a>
 <br><br><br>
 
