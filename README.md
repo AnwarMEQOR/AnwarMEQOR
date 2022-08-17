@@ -24,7 +24,7 @@
   <a href="https://github.com/AnwarMEQOR?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AnwarMEQOR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p style="text-align: center; margin-left: auto; margin-right: auto; display: flex;" align="center">
+<div style="text-align: center; margin-left: auto; margin-right: auto; display: flex;" align="center">
 
 
   <h3 align="center">GitHub Profile Stats</h3>
@@ -34,7 +34,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my <b>public</b> code consists of and doesn't reflect experience or skill level.
 
-</p>
+</div>
 
 <p align="center">
 <img align="center" alt="AnwarMEQOR's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=AnwarMEQOR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px"/>
