@@ -28,7 +28,6 @@
     <img alt="AnwarMEQOR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnwarMEQOR&hide=issues,contribs&count_private=true&show_icons=true&theme=vue&include_all_commits=true&hide_title=true&text_bold=true"/>
     <br>
     <img alt="AnwarMEQOR's Streaks" src="https://streak-stats.demolab.com?user=AnwarMEQOR&border_radius=5&theme=vue"/>
-    <img alt="AnwarMEQOR's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AnwarMEQOR&theme=github-light&hide_title=true"/>
   </div>
 </div>
   <!-- Tools section -->
