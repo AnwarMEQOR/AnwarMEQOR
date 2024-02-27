@@ -36,26 +36,20 @@
   <!-- /////////////////////////////////////////////////////////////////////////////////////////////// -->
   <div>
     <h4>👨‍💻 Programming languages</h4>
-    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label=" alt="assembly"/>
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit" alt="c"/>
     </a>
     <a href="https://www.java.com" target="_blank">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
     </a>
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-    </a>
-    <a href="https://www.php.net" target="_blank">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+    </a>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
     </a>
   </div>
   <!-- /////////////////////////////////////////////////////////////////////////////////////////////// -->
@@ -85,17 +79,17 @@
   </div>
   <div>
     <h4>💻 Backend Development</h4>
-    <a href="https://www.djangoproject.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-    </a>
     <a href="https://nodejs.org" target="_blank">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
     </a>
-    <a href="https://expressjs.com" target="_blank">
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express"/>
-    </a>
     <a href="https://spring.io/" target="_blank">
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank">
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express"/>
     </a>
   </div>
   <div>
