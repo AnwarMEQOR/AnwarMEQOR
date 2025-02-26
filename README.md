@@ -1,9 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AnwarMEQOR&style=for-the-badge"/><br>
 <div align="center">
   <h1>Hi👋, I'm Anwar</h1>
-  <h2>An expert full stack developer</h2>
-  <h3>🔭 I’m currently looking for a freelance full stack developer position</h3>
-  <h4>💬 You can ask me about the MEAN (MongoDB, ExpressJS, Angular, NodeJS) stack</h4>
+  <h2>A Software Development Engineer</h2>
   <!-- Contact section -->
   <div>
     <h3><b>Contact me via :</b></h3>
